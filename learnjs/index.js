@@ -11,8 +11,19 @@ console.table([accountId, accountName, accountEmail, accountPassword])
 
 // Second Topic DATA TYPE
 
-let score = 33
+let score = 22
 
-console.log(score)
+//console.log(typeof score)
 
+let valueInNumber = Number(score)
+
+//console.log(typeof valueInNumber)
+//console.log(valueInNumber)
+
+
+let loggedIn = 123
+
+let boolLoggedIn = Boolean(loggedIn)
+
+console.log(boolLoggedIn);
 
