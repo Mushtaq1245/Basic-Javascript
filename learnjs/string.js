@@ -6,7 +6,7 @@ console.log(`My Name Is ${name}. My Father Name is Alamgir`);
 console.log("Muhammad Mushtaq");
 
 
-let gameName =  new string ("Mushtaq")
+let gameName = new string('Mushtaq')
 
-console.log(gameName);
+console.log(gameName.length);
 
